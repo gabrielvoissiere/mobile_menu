@@ -18,6 +18,13 @@ p {
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
 }
 
+.title {
+    position: absolute;
+    bottom: -80%;
+    width: 120%;
+    text-align: center;
+}
+
 .menu {
     /* ne pas modifier */
     position: relative;
