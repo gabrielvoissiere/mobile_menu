@@ -18,7 +18,7 @@ p {
     font-family: 'Roboto', Arial, Helvetica, sans-serif;
 }
 
-.title {
+p.title {
     position: absolute;
     bottom: -80%;
     width: 120%;
